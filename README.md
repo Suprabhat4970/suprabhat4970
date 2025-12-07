@@ -1,6 +1,11 @@
 # 💫 Hi 👋, I'm Suprabhat Jana 
 **A passionate ML Developer ||  Engineer || India**
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=600&lines=Suprabhat+Jana;Machine+Learning+Developer;Welcome+to+My+GitHub!" />
+</p>
+
+
 ## 📫 Contact Me
 📧 **Email:** **suprabhatj378@gmail.com**   
 🔗 **LinkedIn:** *https://www.linkedin.com/in/suprabhat-jana-76aa36321*  😊
