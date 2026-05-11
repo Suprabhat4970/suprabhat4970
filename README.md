@@ -30,7 +30,7 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/suprabhat4970/suprabhat4970/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Suprabhat4970/Suprabhat4970/output/snake.svg" alt="Snake animation" />
 </div>
 
 # 💻 Tech Stack:
