@@ -30,7 +30,7 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Suprabhat4970/Suprabhat4970/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/suprabhat4970/suprabhat4970/output/snake.svg" alt="Snake animation" />
 </div>
 
 # 💻 Tech Stack:
@@ -39,15 +39,14 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suprabhat4970&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suprabhat4970&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suprabhat4970&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suprabhat4970&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprabhat4970&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprabhat4970&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
