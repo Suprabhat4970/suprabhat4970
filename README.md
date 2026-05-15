@@ -88,7 +88,7 @@
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blueviolet?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-Database%20Management-success?style=for-the-badge)
 ![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-orange?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-black?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-blueviolet?style=for-the-badge)
 ---
 
 # 📊 GitHub Stats
