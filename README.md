@@ -2,7 +2,7 @@
 ### 🚀 Machine Learning Developer | AI Engineer | India
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=700&lines=Suprabhat+Jana;Machine+Learning+Developer;AI+Engineer;Welcome+to+My+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=700&lines=Suprabhat+Jana;Machine+Learning+Developer;Welcome+to+My+GitHub!" />
 </p>
 
 ---
