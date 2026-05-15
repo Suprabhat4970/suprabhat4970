@@ -69,7 +69,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-orange?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Basic-success?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-success?style=for-the-badge)
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
