@@ -105,12 +105,14 @@
 </p>
 
 ---
-
 # 📈 Contribution Graph
 
-[![Suprabhat github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suprabhat4970&theme=tokyo-night)](https://github.com/Suprabhat4970)
-
----
+<p align="center">
+  <img
+    src="https://github-activity-chart.vercel.app/graph?username=Suprabhat4970&days=30"
+    width="95%"
+    alt="Suprabhat Jana GitHub Activity Graph">
+</p>
 
 # ✍️ Dev Quote
 
